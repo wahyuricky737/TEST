@@ -27,8 +27,8 @@ const defaultMenu = {
 ┆⬡ *Bailyes Version* : 4.2.0
 ┆⬡ *Database* : %rtotalreg dari %totalreg
 ┆⬡ *Memory Used* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-┆⬡ *Instagram* :
-┆⬡ https://instagram.com/oscarbotz_
+┆⬡ *Yt Owner* :
+┆⬡ https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg_
 ┗─────────────────⬣
 %readmore`.trim(),
   header: '┏━┈┈『 %category 』┈┈⬣',
